@@ -17,3 +17,8 @@ SQL Server Quest هي منصة تعليمية تفاعلية مصممة على �
 1. انسخ المستودع (Clone):
    ```bash
    git clone https://github.com/11938776r-spec/SQLServer_Quest.git
+ cd SQLServer_Quest
+ npm install
+ npm run dev
+ http://localhost:5173
+ 
