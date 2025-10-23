@@ -80,3 +80,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<button onclick="navigator.clipboard.writeText('This project was developed by Riry to simplify learning SQL Server in a practical and interactive way that helps learners apply concepts step by step. The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.')">Copy About Project & Author</button>
+
+This project was developed by **Riry** to simplify learning **SQL Server** in a practical and interactive way that helps learners apply concepts step by step.  
+The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.
