@@ -84,3 +84,8 @@ SOFTWARE.
 
 This project was developed by **Riry** to simplify learning **SQL Server** in a practical and interactive way that helps learners apply concepts step by step.  
 The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.
+
+## About Project & Author
+
+This project was developed by **Riry** to simplify learning **SQL Server** in a practical and interactive way that helps learners apply concepts step by step.  
+The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.
