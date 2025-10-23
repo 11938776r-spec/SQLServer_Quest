@@ -16,4 +16,4 @@ SQL Server Quest هي منصة تعليمية تفاعلية مصممة على �
 ## How to Run Locally / كيفية التشغيل محليًا
 1. انسخ المستودع (Clone):
    ```bash
-   git clone https://github.com/YourUsername/SQLServer_Quest.git
+   git clone https://github.com/11938776r-spec/SQLServer_Quest.git
