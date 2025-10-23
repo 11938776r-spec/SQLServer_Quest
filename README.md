@@ -50,7 +50,7 @@ git clone https://github.com/<your-username>/SQLServer_Quest.git
 cd SQLServer_Quest
 npm install
 npm run dev
-http://localhost:5173
+http://localhost:5173``` 
 # SQL Server Quest — منصة تفاعلية لتعلم SQL Server
 
 ## نظرة عامة
@@ -98,7 +98,7 @@ git clone https://github.com/<اسم-المستخدم>/SQLServer_Quest.git
 cd SQLServer_Quest
 npm install
 npm run dev
-http://localhost:5173
+http://localhost:5173```
 ## الترخيص
 
 > 🧾 المشروع مفتوح المصدر تحت رخصة **MIT License**.
