@@ -1,4 +1,4 @@
-# SQL Server Quest 🎯
+t# SQL Server Quest 🎯
 منصة تعليمية تفاعلية لتعلّم SQL Server.
 
 تم تطويرها باستخدام React وVite وSQL Server.
@@ -19,13 +19,12 @@ SQL Server Quest هي منصة تعليمية تفاعلية مصممة على �
    git clone https://github.com/11938776r-spec/SQLServer_Quest.git
 2. ادخل الى مجلد المشروع :
    
- cd SQLServer_Quest
+ bash cd SQLServer_Quest
 3.ثبت الحزمة المطلوبة:
-   
-     npm install
+ bash npm install
  4. شغل سيرفر التطوير :
 
- npm run dev
+ bash npm run dev
  5. افتح المتصفح على الرابط التالي:
  http://localhost:5173
  
