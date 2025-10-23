@@ -1,17 +1,13 @@
 # SQL Server Quest — Interactive Learning Platform for SQL Server
 ---
 
-## English Version 🇬🇧
-
-### Overview
-
-<button onclick="navigator.clipboard.writeText('SQL Server Quest is an interactive learning platform designed to teach SQL step by step using Microsoft SQL Server in a practical and engaging way.')">Copy Overview</button>
+## Overview
 
 **SQL Server Quest** is an interactive learning platform designed to teach SQL step by step using **Microsoft SQL Server** in a practical and engaging way.
 
-### Features
+---
 
-<button onclick="navigator.clipboard.writeText('- Interactive video lessons\n- Built-in SQL editor to practice queries directly\n- Automatic exercise correction with detailed feedback\n- Progress tracking and level system to motivate learning\n- Multiple learning stages from beginner to advanced')">Copy Features</button>
+## Features
 
 - Interactive video lessons  
 - Built-in SQL editor to practice queries directly  
@@ -19,9 +15,9 @@
 - Progress tracking and level system to motivate learning  
 - Multiple learning stages from beginner to advanced  
 
-### Technologies Used
+---
 
-<button onclick="navigator.clipboard.writeText('| Component | Technology |\n|------------|-------------|\n| Frontend | React + Vite |\n| Backend | Node.js or Flask |\n| Database | Microsoft SQL Server |\n| Hosting | Vercel |\n| Styling | Tailwind CSS + Shadcn/UI |')">Copy Technologies</button>
+## Technologies Used
 
 | Component | Technology |
 |------------|-------------|
@@ -31,9 +27,9 @@
 | Hosting | Vercel |
 | Styling | Tailwind CSS + Shadcn/UI |
 
-### Learning Levels
+---
 
-<button onclick="navigator.clipboard.writeText('| Level | Description |\n|--------|--------------|\n| Beginner | Learn SQL basics: SELECT, WHERE, GROUP BY |\n| Intermediate | Learn JOINs, functions, and CRUD operations |\n| Advanced | Stored procedures, CTEs, and analytical functions |\n| Professional | Performance tuning, indexing, transactions, and security |')">Copy Levels</button>
+## Learning Levels
 
 | Level | Description |
 |--------|--------------|
@@ -42,9 +38,9 @@
 | Advanced | Stored procedures, CTEs, and analytical functions |
 | Professional | Performance tuning, indexing, transactions, and security |
 
-### Example Exercise
+---
 
-<button onclick="navigator.clipboard.writeText('SELECT name, salary\nFROM Employees\nWHERE salary > 5000\nORDER BY salary DESC;')">Copy SQL Exercise</button>
+## Example Exercise
 
 **Task:**  
 Display the names of employees with salaries greater than 5000, ordered by salary in descending order.
@@ -80,12 +76,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<button onclick="navigator.clipboard.writeText('This project was developed by Riry to simplify learning SQL Server in a practical and interactive way that helps learners apply concepts step by step. The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.')">Copy About Project & Author</button>
-
-This project was developed by **Riry** to simplify learning **SQL Server** in a practical and interactive way that helps learners apply concepts step by step.  
-The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.
-
 ## About Project & Author
 
-This project was developed by **Riry** to simplify learning **SQL Server** in a practical and interactive way that helps learners apply concepts step by step.  
+This project was developed by Riry to simplify learning SQL Server in a practical and interactive way that helps learners apply concepts step by step.  
 The project aims to create an engaging learning environment that encourages persistence and motivates learners to progress from beginner to professional with confidence and competence.
