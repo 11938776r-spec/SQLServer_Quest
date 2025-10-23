@@ -19,12 +19,12 @@ SQL Server Quest هي منصة تعليمية تفاعلية مصممة على �
    git clone https://github.com/11938776r-spec/SQLServer_Quest.git
 2. ادخل الى مجلد المشروع :
    
- bash cd SQLServer_Quest
+   cd SQLServer_Quest
 3.ثبت الحزمة المطلوبة:
- bash npm install
+   npm install
  4. شغل سيرفر التطوير :
 
- bash npm run dev
+   npm run dev
  5. افتح المتصفح على الرابط التالي:
- http://localhost:5173
+   http://localhost:5173
  
