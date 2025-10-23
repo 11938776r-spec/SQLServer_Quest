@@ -1,18 +1,19 @@
 # SQL Server Quest 🎯
-Interactive learning platform for mastering SQL using SQL Server.
+منصة تعليمية تفاعلية لتعلّم SQL Server.
 
-Built with React, Vite, and SQL Server.
+تم تطويرها باستخدام React وVite وSQL Server.
 
-## Overview
-SQL Server Quest is an interactive educational platform designed as a gamified experience to learn SQL Server from beginner to advanced levels. Users can watch lessons, complete exercises, and track their progress with points and badges.
+## Overview / نظرة عامة
+SQL Server Quest هي منصة تعليمية تفاعلية مصممة على شكل تجربة لعبة (gamified) لتعلّم SQL Server من المستوى المبتدئ إلى المتقدم.  
+يمكن للمستخدمين مشاهدة الدروس، إكمال التمارين، ومتابعة تقدمهم باستخدام النقاط والشارات.
 
-## Features
-- Step-by-step lessons from basics to advanced SQL.
-- Interactive SQL editor with automatic feedback.
-- Gamified experience with levels, points, and badges.
-- Projects and exercises to practice real-world scenarios.
+## Features / المميزات
+- دروس خطوة بخطوة من أساسيات SQL إلى المستوى المتقدم.
+- محرر SQL تفاعلي مع تصحيح آلي للتمارين.
+- تجربة تعليمية على شكل لعبة مع مستويات، نقاط، وشارات.
+- مشاريع وتمارين لتطبيق مهارات حقيقية.
 
-## How to Run Locally
-1. Clone the repository:
+## How to Run Locally / كيفية التشغيل محليًا
+1. انسخ المستودع (Clone):
    ```bash
    git clone https://github.com/YourUsername/SQLServer_Quest.git
